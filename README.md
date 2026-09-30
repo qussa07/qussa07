@@ -16,7 +16,9 @@ Backend Developer focused on building reliable APIs, scalable backend systems, a
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=php,python,go,fastapi,postgres,redis,docker,nginx,git,github,linux,vscode,postman)](https://skillicons.dev)
 
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
